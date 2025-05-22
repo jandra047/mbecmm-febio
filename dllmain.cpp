@@ -1,7 +1,6 @@
 // This file defines the required functions for registering the plugin classes
 // with the FEBio framework.
 
-#include "stdafx.h"
 #include "FECore/FECoreKernel.h"
 #include "FEMbeCmm.h"
 

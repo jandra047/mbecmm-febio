@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "FEMbeCmm.h"
 #include "FECore/FEAnalysis.h"					// To get end time
 #include "FECore/FEModel.h"						// To get current time
@@ -8,6 +7,7 @@
 #define _USE_MATH_DEFINES						// To introduce pi constant (1/2)
 #include <math.h>								// To introduce pi constant (2/2)
 #include "FECore/log.h"							// To print to log file and/or screen
+#include <limits>
 
 GRMaterialPoint::GRMaterialPoint(FEMaterialPoint *pt) : FEMaterialPoint(pt) {}
 
