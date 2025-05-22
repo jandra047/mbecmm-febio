@@ -6,3 +6,13 @@ Reference: Latorre M, Humphrey JD (2020) Numerical knockouts–In silico assessm
 
 
 Compiled in Microsoft Visual Studio 2017 in Windows 10 Pro.
+
+---
+**NOTE**
+
+This fork was created to make the plugin buildable on Linux systems.
+This particular version works with https://github.com/febiosoftware/FEBio/commit/299cca7305a21377325fc59cd46c09858675903f
+
+---
+
+
